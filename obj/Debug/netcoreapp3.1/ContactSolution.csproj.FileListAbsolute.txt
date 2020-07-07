@@ -58,3 +58,9 @@ C:\Users\gauravb2\Desktop\Gaurav\MY\AzureBootCamp\Applications\Assignment_Applic
 C:\Users\gauravb2\Desktop\Gaurav\MY\AzureBootCamp\Applications\Assignment_Application\ContactSolution\obj\Debug\netcoreapp3.1\ContactSolution.dll
 C:\Users\gauravb2\Desktop\Gaurav\MY\AzureBootCamp\Applications\Assignment_Application\ContactSolution\obj\Debug\netcoreapp3.1\ContactSolution.pdb
 C:\Users\gauravb2\Desktop\Gaurav\MY\AzureBootCamp\Applications\Assignment_Application\ContactSolution\obj\Debug\netcoreapp3.1\ContactSolution.genruntimeconfig.cache
+C:\Users\gauravb2\Desktop\Gaurav\MY\AzureBootCamp\Applications\Assignment_Application\ContactSolution\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\Users\gauravb2\Desktop\Gaurav\MY\AzureBootCamp\Applications\Assignment_Application\ContactSolution\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+C:\Users\gauravb2\Desktop\Gaurav\MY\AzureBootCamp\Applications\Assignment_Application\ContactSolution\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gauravb2\Desktop\Gaurav\MY\AzureBootCamp\Applications\Assignment_Application\ContactSolution\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\gauravb2\Desktop\Gaurav\MY\AzureBootCamp\Applications\Assignment_Application\ContactSolution\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gauravb2\Desktop\Gaurav\MY\AzureBootCamp\Applications\Assignment_Application\ContactSolution\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll

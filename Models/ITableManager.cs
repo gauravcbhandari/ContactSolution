@@ -12,5 +12,7 @@ namespace ContactSolution
         void CreateOrUpdate(Contact myTableOperation);
 
         void UploadFileToBlob(IFormFile file);
+        void SendMessageToQueue(Contact message);
+
     }
 }

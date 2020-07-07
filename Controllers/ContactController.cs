@@ -40,6 +40,8 @@ namespace ContactSolution.Controllers
 
                 repository.CreateOrUpdate(contact);
 
+                repository.SendMessageToQueue(contact);
+
                 return RedirectToAction("index", "contact");
             }
 
